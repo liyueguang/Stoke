@@ -1,0 +1,104 @@
+Start at Saturday, March 08, 2008    19:09:04
+=========================================
+
+Registration Info : 
+
+Windows Version:
+Microsoft Windows XP Professional Service Pack 2 (Build 2600)
+
+Module Info:
+Company: fCoder Group, Inc.
+Product Name: ImageConverter Plus
+Product Version: 7.1.9.71102
+
+CPU Info:
+Vendor: GenuineIntel
+Vendor ID: Intel Corporation
+Extended Processor Name: Intel(R) Pentium(R) 4 CPU 3.00GHz
+Procesor Clock Frequecy: 3024
+Logical processors per physical: 2
+Stepping code: 3
+MMX support: yes
+MMX+ support: no
+SSE support: yes
+SSE2 support: yes
+3DNow suppor: no
+3DNow+ suppor: no
+AI64 support: no
+Hyperthreading support: no
+L1 cache size: 0
+L2 cache size: 2048
+L3 cache size: -1
+
+Monitor info:
+Color depth: 32 Bits per pixel.
+Pixel Width: 1024
+Pixel Height: 768
+Refresh frequency: 85 Hz
+
+Internet Explorer Version: 6.0
+Build Number: 2900
+
+Printers list: 
+在 XIAOGANG 上自动 Adobe PDF
+在 XIAOGANG 上自动 Microsoft Office Document Image Writer
+在 ZHANG 上自动 Microsoft Office Document Image Writer
+在 YINJUN-C3827BB4 上自动 Microsoft Office Document Image Writer
+在 YCHU 上自动 Microsoft Office Document Image Writer
+在 VIVI 上自动 Microsoft Office Document Image Writer
+在 SHUANG 上自动 Adobe PDF
+在 HH 上自动 Microsoft Office Document Image Writer
+在 82789BB98E4F4DA 上自动 Microsoft Office Document Image Writer
+Smart Print
+Microsoft Office Document Image Writer
+Adobe PDF
+
+Default printer: 
+Smart Print
+
+
+Script settings:
+
+Operations:
+
+Format properties:
+    Extension: bmp
+    bits per pixel : 8
+    rows direction : bottom_top
+    quantization levels : 8
+    dithering : no
+
+Save properties:
+    Destination path: {Source path}
+    convert with subfolders : yes
+    restore subfolder structure in target folder : yes
+    open target folder after conversion : yes
+    create log file in target folder : yes
+
+Target file name properties:
+    Name template: {Title}.{Type}
+    what to do, if file exists : auto_rename
+    delete source images : no
+
+Processing files...
+
+=====================================================================
+
+File 1 of 1
+
+RAM free    :     325.8 of    1023.5 Mb
+Virtual free:    1986.2 of    2047.9 Mb
+Target free disk space :    5349.3 of   20159.7 Mb
+Temp free disk space   :     266.8 of   20000.8 Mb
+
+Src info : D:\HGB_OA\images\root.ico
+ico, 16x16px, 8bpp, 1 page(s), 1406 bytes
+Load all pages :  ok
+
+Save :  ok
+
+Dest info : D:\HGB_OA\images\root.bmp
+bmp, 16x16px, 8bpp, 1 page(s), 96.012001x96.012001 dpi, 1334 bytes
+
+Complete at Saturday, March 08, 2008    19:09:04
+=========================================

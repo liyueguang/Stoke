@@ -1,0 +1,73 @@
+*
+{
+	margin:0px;
+	padding:0px;	
+}
+
+body
+{
+	background-image:url("../images/loginbgg.jpg");
+	background-repeat:no-repeat;
+}
+
+#maindiv 
+{
+	background-image:url("../images/loginbg.jpg");
+	background-repeat:no-repeat;
+	background-position: center top;
+	width:1140px;
+	height:750px;
+	margin:auto;
+}
+
+#header
+{
+    height:316px;
+}
+
+#main
+{
+    height:390px;	
+}
+
+#footer
+{
+	height:44px;	
+}
+
+#ltb
+{
+    margin-left:540px;	
+}
+
+.ustyle
+{
+	color: #2983cf;
+    font-size:24px;
+    letter-spacing:-3px;
+    font-weight:100;
+}
+
+#uname,#passwd
+{
+    border-style:solid;
+    border-color:#91b9dd;
+    width:180px;
+    height:23px;	
+}
+
+.zstyle
+{
+    font-weight:bold;
+    font-size:14px;
+    color:Gray;	
+    line-height:25px;
+}
+
+.fstyle
+{
+	margin-left:300px;
+    color:#2983cf;
+    font-family:¿¬Ìå;
+    font-size:18px;	
+}

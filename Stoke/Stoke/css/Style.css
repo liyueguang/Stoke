@@ -1,0 +1,96 @@
+BODY {
+	FONT-SIZE: 9pt; MARGIN: 0px; COLOR: #333333; FONT-FAMILY: "??", Arial; BACKGROUND-COLOR: #dde4f1
+}
+TD {
+	FONT-SIZE: 9pt; FONT-FAMILY: "宋体", Arial
+}
+A:link {
+	COLOR: #003399; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #003399; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #003399; TEXT-DECORATION: none
+}
+A.title:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.title:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.title:active {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.title:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.Grid_Head {
+	COLOR: #ffffff; BACKGROUND-COLOR: #003399
+}
+.Footer {
+	COLOR: #003399; BACKGROUND-COLOR: #99cccc
+}
+.Grid_Item {
+	BORDER-LEFT-COLOR: #3366cc; BORDER-BOTTOM-COLOR: #3366cc; COLOR: #003399; BORDER-TOP-COLOR: #3366cc; BORDER-COLLAPSE: collapse; BACKGROUND-COLOR: white; BORDER-RIGHT-COLOR: #3366cc
+}
+.Grid_Alter {
+	BACKGROUND-COLOR: gainsboro
+}
+.Grid_bbsHead {
+	BACKGROUND-COLOR: #99ccff
+}
+.subpagebody {
+	FONT-SIZE: 9pt; COLOR: #333333; BACKGROUND-COLOR: #e5eaf4
+}
+TABLE.loginform {
+	BORDER-RIGHT: #0066ff 1px solid; BORDER-TOP: #0066ff 1px solid; BORDER-LEFT: #0066ff 1px solid; WIDTH: 90%; BORDER-BOTTOM: #0066ff 1px solid; BACKGROUND-COLOR: #ffffff
+}
+TABLE.content {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; WIDTH: 90%; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: #ffffff
+}
+TABLE.content2 {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: "宋体", Arial; BACKGROUND-COLOR: #075bb1
+}
+P.white {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: "宋体", Arial
+}
+P.black {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: "宋体", Arial
+}
+.TD_Head {
+	BACKGROUND-COLOR: #075bb1
+}
+.TD_bbsHead {
+	BACKGROUND-IMAGE: url(../images/bbs_top.gif)
+}
+.Home_Css {
+	BORDER-RIGHT: #000066 0px solid; BORDER-TOP: #000066 0px solid; BORDER-LEFT: #000066 0px solid; BORDER-BOTTOM: #000066 0px solid; BORDER-COLLAPSE: collapse
+}
+.Home_Head {
+	COLOR: #ffffff; BACKGROUND-COLOR: #006699
+}
+.Home_HeadFont {
+	FONT-SIZE: 10pt; FONT-FAMILY: "宋体", Arial
+}
+INPUT {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; FONT-SIZE: 9pt; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid; FONT-FAMILY: "??", Arial; BACKGROUND-COLOR: #f5f5f5
+}
+.ActiveMenu {
+	BACKGROUND-COLOR: #bde7ff
+}
+.MouseOverMenu {
+	BACKGROUND-COLOR: #bde766
+}
+.NoResult {
+	FONT-SIZE: 12pt; COLOR: red
+}
+TD.articletitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #000099; FONT-STYLE: normal; FONT-FAMILY: "宋体", Arial
+}
+.content {
+	FONT-SIZE: 14px; LINE-HEIGHT: 20px
+}

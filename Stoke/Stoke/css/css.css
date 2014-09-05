@@ -1,0 +1,290 @@
+TD {
+	FONT-SIZE: 12px; LINE-HEIGHT: 150%; FONT-FAMILY: "宋体"
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: #2e4fa7; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: #2e4fa7; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: underline
+}
+A:active {
+	FONT-SIZE: 12px; COLOR: #2e4fa7; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A.a2:link {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A.a2:visited {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A.a2:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: underline
+}
+A.a2:active {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A.menu:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A.menu:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A.menu:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A.menu:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A.menu2:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; COLOR: #387eaf; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A.menu2:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; COLOR: #387eaf; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A.menu2:hover {
+	FONT-SIZE: 13px; COLOR: #ff0000; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: underline
+}
+A.menu2:active {
+	FONT-WEIGHT: normal; FONT-SIZE: 13px; COLOR: #387eaf; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A.button:link {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A.button:visited {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A.button:hover {
+	FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+A.button:active {
+	FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "宋体", Arial; TEXT-DECORATION: none
+}
+.yellow {
+	COLOR: #ffea00
+}
+.body1 {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: left bottom; PADDING-LEFT: 0px; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/body1_bg.jpg); PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 150%; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #ffffff
+}
+.body2 {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 50% bottom; PADDING-LEFT: 0px; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/bodybg1.gif); PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 150%; PADDING-TOP: 0px; BACKGROUND-REPEAT: repeat-x; BACKGROUND-COLOR: #5a79b9
+}
+.body3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; BACKGROUND-IMAGE: url(../images/md_bg.gif); PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 150%; PADDING-TOP: 0px
+}
+.lmenutitle {
+	BACKGROUND-IMAGE: url(../images/lmenu_title.gif); WIDTH: 181px; HEIGHT: 40px; TEXT-ALIGN: center
+}
+.width1 {
+	CLEAR: both; WIDTH: 174px
+}
+.lmenu {
+	FLOAT: none; WIDTH: 181px
+}
+.width2 {
+	WIDTH: 96%
+}
+.title1 {
+	BACKGROUND-IMAGE: url(../images/title_bg1.gif); HEIGHT: 26px
+}
+.yellow {
+	COLOR: #ffea00
+}
+.white {
+	COLOR: #ffffff
+}
+.input1 {
+	BORDER-RIGHT: #9ea6c0 1px solid; BORDER-TOP: #9ea6c0 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #9ea6c0 1px solid; COLOR: #000000; BORDER-BOTTOM: #9ea6c0 1px solid; HEIGHT: 16px
+}
+.td1 {
+	BORDER-RIGHT: #d4d4d4 0px solid; BORDER-TOP: #d4d4d4 0px solid; BORDER-LEFT: #d4d4d4 0px solid; BORDER-BOTTOM: #d4d4d4 1px solid; HEIGHT: 23px; BACKGROUND-COLOR: #f5f7fc; TEXT-ALIGN: center
+}
+.td2 {
+	BORDER-RIGHT: #d4d4d4 0px solid; BORDER-TOP: #d4d4d4 0px solid; BORDER-LEFT: #d4d4d4 0px solid; BORDER-BOTTOM: #d4d4d4 1px solid; HEIGHT: 20px
+}
+.red {
+	COLOR: #ff0000
+}
+.green {
+	COLOR: #248e14
+}
+.body4 {
+	FONT-SIZE: 12px; LINE-HEIGHT: 150%; BACKGROUND-COLOR: #f1f1f8
+}
+.title_tanchu {
+	BORDER-RIGHT: #aaaaaa 0px dashed; BORDER-TOP: #aaaaaa 0px dashed; FONT-WEIGHT: bold; FONT-SIZE: 14px; BORDER-LEFT: #aaaaaa 0px dashed; COLOR: #000000; BORDER-BOTTOM: #aaaaaa 2px dashed; HEIGHT: 30px; BACKGROUND-COLOR: #f3f5fa; TEXT-ALIGN: center
+}
+.input2 {
+	BORDER-RIGHT: #9ea6c0 1px solid; BORDER-TOP: #9ea6c0 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #9ea6c0 1px solid; COLOR: #000000; BORDER-BOTTOM: #9ea6c0 1px solid; HEIGHT: 20px
+}
+.input3 {
+	BORDER-RIGHT: #9ea6c0 1px solid; BORDER-TOP: #9ea6c0 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #9ea6c0 1px solid; COLOR: #999999; BORDER-BOTTOM: #9ea6c0 1px solid; HEIGHT: 20px
+}
+.input4 {
+	BORDER-RIGHT: #7b9ebd 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #7b9ebd 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#ffffff, EndColorStr=#cecfde); BORDER-LEFT: #7b9ebd 1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; BORDER-BOTTOM: #7b9ebd 1px solid
+}
+.title2 {
+	BORDER-RIGHT: 0px solid; BORDER-TOP: 0px solid; BACKGROUND-IMAGE: url(../images/title_bg2.gif); BORDER-LEFT: 0px solid; BORDER-BOTTOM: #c9d0e2 1px solid; HEIGHT: 26px
+}
+.td3 {
+	WIDTH: 150px; BACKGROUND-COLOR: #eaeef2
+}
+.height1 {
+	HEIGHT: 100%
+}
+.topmargin10px {
+	MARGIN: 10px 0px 0px
+}
+.title4 {
+	HEIGHT: 23px; BACKGROUND-COLOR: #dde3ec
+}
+.topmargin6px {
+	MARGIN: 6px 0px 0px
+}
+.treeparent {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.border1 {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid
+}
+.topbg {
+	BACKGROUND-IMAGE: url(../images/topbg.gif)
+}
+.topbg2 {
+	BACKGROUND-IMAGE: url(../images/topbg2.gif); WIDTH: 333px
+}
+.topmenubg {
+	BACKGROUND-IMAGE: url(../images/menu_bg.gif); HEIGHT: 37px
+}
+.topctrlbar {
+	MARGIN-TOP: 6px; MARGIN-BOTTOM: 6px; MARGIN-RIGHT: 38px
+}
+.topdate {
+	MARGIN-RIGHT: 38px
+}
+.loginmem {
+	FLOAT: left; BACKGROUND-IMAGE: url(../images/loginmem_bg.gif); WIDTH: 183px; MARGIN-RIGHT: 10px; HEIGHT: 37px
+}
+.loginmen_text {
+	PADDING-LEFT: 40px; PADDING-TOP: 8px
+}
+.menudiv {
+	MARGIN-TOP: 4px; FLOAT: left
+}
+.desktop_lbg {
+	BACKGROUND-POSITION: 50% bottom; BACKGROUND-IMAGE: url(../images/desktop_lbg.gif); WIDTH: 217px; BACKGROUND-REPEAT: repeat-x; HEIGHT: 100%; BACKGROUND-COLOR: #3c77b0
+}
+.desktop_lbg2 {
+	BACKGROUND-POSITION: left bottom; FLOAT: none; MARGIN: 6px 0px 0px; WIDTH: 212px; CLIP: rect(auto auto auto auto)
+}
+.desktop_ltitle {
+	HEIGHT: 29px
+}
+.top_bottom6px {
+	MARGIN-TOP: 6px; MARGIN-BOTTOM: 6px
+}
+.gray {
+	COLOR: #848484
+}
+.desktop_mtitle {
+	BACKGROUND-IMAGE: url(../images/desktop_mtitle.gif); WIDTH: 510px; HEIGHT: 31px
+}
+.desktop_rtitle {
+	BACKGROUND-IMAGE: url(../images/desktop_rtitlebg.gif); WIDTH: 217px; HEIGHT: 27px
+}
+.desktop_rbg {
+	BACKGROUND-IMAGE: url(../images/desktop_rbg.gif); WIDTH: 169px
+}
+.desktop_bg {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(../images/desktop_bg.jpg); BACKGROUND-REPEAT: no-repeat
+}
+.title_text1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #000000
+}
+.lmenubgpic {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-REPEAT: no-repeat
+}
+.rmainbg1 {
+	BACKGROUND-IMAGE: url(../images/rmain_bg1.gif); HEIGHT: 6px; BACKGROUND-COLOR: #bac2da
+}
+.rctrlbar {
+	BACKGROUND-IMAGE: url(../images/rctrlbgar_bg.gif); HEIGHT: 33px
+}
+.title_text2 {
+	FONT-WEIGHT: bold; COLOR: #ffffff
+}
+.title_tanchu2 {
+	BORDER-RIGHT: #aaaaaa 0px dashed; BORDER-TOP: #aaaaaa 0px dashed; FONT-WEIGHT: bold; FONT-SIZE: 14px; BORDER-LEFT: #aaaaaa 0px dashed; COLOR: #928405; BORDER-BOTTOM: #aaaaaa 2px dashed; HEIGHT: 30px; BACKGROUND-COLOR: #f3f5fa; TEXT-ALIGN: center
+}
+.brown {
+	COLOR: #6c4521
+}
+.title3 {
+	BACKGROUND-IMAGE: url(../images/title_bg3.gif); HEIGHT: 31px
+}
+.title_text3 {
+	FONT-WEIGHT: bold; COLOR: #3c5191
+}
+.leftmargin5px {
+	MARGIN: 0px 0px 0px 5px
+}
+.maildiv {
+	BORDER-RIGHT: #e8e8e8 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: #e8e8e8 1px solid; PADDING-LEFT: 6px; FONT-SIZE: 14px; PADDING-BOTTOM: 6px; OVERFLOW: auto; BORDER-LEFT: #e8e8e8 1px solid; LINE-HEIGHT: 150%; PADDING-TOP: 6px; BORDER-BOTTOM: #e8e8e8 1px solid; HEIGHT: 300px; TEXT-ALIGN: left
+}
+.td4 {
+	BACKGROUND-COLOR: #f2f4f9
+}
+.font14 {
+	FONT-SIZE: 14px
+}
+.rightmargin5px {
+	MARGIN: 0px 5px 0px 0px
+}
+.desktop_rbg {
+	BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(../images/desktop_rbg.gif); BACKGROUND-REPEAT: repeat
+}
+.desktop_rtitle {
+	BACKGROUND-IMAGE: url(../images/desktop_rtitle.gif); WIDTH: 154px; HEIGHT: 23px
+}
+.bgwhite {
+	BACKGROUND-COLOR: #ffffff
+}
+.input5 {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; COLOR: #002687; BORDER-BOTTOM: #d5d5d5 1px solid; BORDER-RIGHT-WIDTH: 0px
+}
+.input6 {
+	BORDER-RIGHT: #76a4cd 1px solid; BORDER-TOP: #76a4cd 1px solid; BORDER-LEFT: #76a4cd 1px solid; BORDER-BOTTOM: #76a4cd 1px solid; BACKGROUND-COLOR: #eff3f7
+}
+.textbox{
+    border: 1px solid #000000;
+}
+.myline 
+{
+	BORDER-RIGHT: #000000 0px solid; 
+	BORDER-TOP: #000000 0px solid; 
+	BORDER-LEFT: #000000 0px solid; 
+	BORDER-BOTTOM: #000000 1px solid;/*注意这里*/
+}
+.Tborder
+{
+	border-right: #000000 2px solid;
+	padding-right: 4px;
+	border-top: #000000 2px solid;
+	padding-left: 4px;
+	background: #ffffff;
+	padding-bottom: 10px;
+	border-bottom: #000000 2px solid;
+	border-left: #000000 2px solid;
+	padding-top: 5px;
+}
+.Tborder_1
+{
+	border-right: #000000 1px solid;
+}
+.Tborder_2
+{
+	border-bottom: #bac2bb 1px solid;
+}
+.Error{ border:1px solid #A2553B;background-color:#FEF1E1;width:160px;float:left;height:18px;line-height:18px;margin-left:24px;color:#4F4F4F;text-indent:12px;}
+.Right{ border:1px solid #419041;background-color:#EDFCE7;width:170px;float:left;height:18px;line-height:18px;margin-left:24px;color:#4F4F4F;text-indent:12px;}
